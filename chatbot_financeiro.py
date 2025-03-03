@@ -6,8 +6,8 @@ from streamlit_extras.colored_header import colored_header
 
 # Configuração do Streamlit
 st.set_page_config(page_title="ChatBot Financeiro", page_icon="💰", layout="wide")
-st.title("🤖 ChatBot Financeiro 📈 - Desenvolvido por Nilson Marcelo @TopGrafx")
-st.write("Este bot analisa o mercado e exibe setups ativados.")
+st.title("🤖 ChatBot Financeiro 📈")
+st.write("Este bot analisa o mercado e exibe setups ativados. Desenvolvido por Nilson Marcelo @TopGrafx")
 
 # Criar banco de dados SQLite
 db_path = "setups_mercado.db"

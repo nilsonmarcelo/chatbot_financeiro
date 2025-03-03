@@ -16,7 +16,7 @@ db_path = "setups_mercado.db"
 ativos_b3 = ["ABEV3", "ASAI3", "AZUL4", "AZZA3", "B3SA3", "BBSE3", "BBDC4", "BBAS3", 
     "BRAV3", "BRFS3", "BPAC11", "CMIG4", "CPLE6", "CSAN3", "CYRE3", "ELET3", 
     "EMBR3", "ENGI11", "ENEV3", "EQTL3", "GGBR4", "NTCO3", "HAPV3", "HYPE3", 
-    "ITSA4", "ITUB4", "JBSS3", "KLBN11", "RENT3", "LREN3", "MGLU3", "MRVE3", 
+    "ITUB4", "JBSS3", "KLBN11", "RENT3", "LREN3", "MGLU3", "MRVE3", 
     "MULT3", "PETR3", "PETR4", "PRIO3", "RADL3", "RDOR3", "RAIL3", "SBSP3", 
     "CSNA3", "SUZB3", "VIVT3", "TIMS3", "TOTS3", "UGPA3", "USIM5", "VALE3", 
     "VBBR3", "WEGE3"]
